@@ -23,7 +23,7 @@
 - LinkedIn: [Vivek Sharma](https://www.linkedin.com/in/ifsvivek/)
 - Twitter: [ifsvivek](https://twitter.com/ifsvivek)
 - Instagram: [ifsvivek](https://www.instagram.com/ifsvivek/)
-- Website: [gh.vivek.tech](https://gh.vivek.tech)
+- Website: [gh.ifsvivek.tech](https://gh.ifsvivek.tech)
 
 ## My GitHub Stats
 
