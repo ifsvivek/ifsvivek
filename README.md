@@ -19,15 +19,17 @@
 
 ## 📫 How to reach me
 
-- Email: <a href="mailto:me@ifsvivek.tech" target="_blank">me@ifsvivek.tech</a>
+
+- Email: [me@ifsvivek.tech](mailto:me@ifsvivek.tech)
 - LinkedIn: <a href="https://www.linkedin.com/in/ifsvivek/" target="_blank">Vivek Sharma</a>
 - Twitter: <a href="https://twitter.com/ifsvivek" target="_blank">ifsvivek</a>
 - Instagram: <a href="https://www.instagram.com/ifsvivek/" target="_blank">ifsvivek</a>
 - Website: <a href="https://gh.ifsvivek.tech" target="_blank">gh.ifsvivek.tech</a>
 
+
 ## My GitHub Stats
 
-<p align="left"><a href="https://github.com/ifsvivek"><img src="https://github-profile-trophy.vercel.app/?username=ifsvivek" alt="ifsvivek" /></a></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&show_icons=true&locale=en&layout=compact"alt="ifsvivek" /></p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifsvivek&show_icons=true&locale=en" alt="ifsvivek" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&" alt="ifsvivek" /></p>
