@@ -21,10 +21,10 @@
 
 
 - Email: [me@ifsvivek.tech](mailto:me@ifsvivek.tech)
-- LinkedIn: <a href="https://www.linkedin.com/in/ifsvivek/" target="_blank">Vivek Sharma</a>
-- Twitter: <a href="https://twitter.com/ifsvivek" target="_blank">ifsvivek</a>
-- Instagram: <a href="https://www.instagram.com/ifsvivek/" target="_blank">ifsvivek</a>
-- Website: <a href="https://gh.ifsvivek.tech" target="_blank">gh.ifsvivek.tech</a>
+- LinkedIn: [Vivek Sharma](https://www.linkedin.com/in/ifsvivek/)
+- Twitter: [ifsvivek](https://twitter.com/ifsvivek)
+- Instagram: [ifsvivek](https://www.instagram.com/ifsvivek/)
+- Website: [gh.ifsvivek.tech](https://gh.ifsvivek.tech)
 
 
 ## My GitHub Stats
