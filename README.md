@@ -28,3 +28,8 @@
 <br/>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifsvivek&show_icons=true&locale=en" alt="ifsvivek" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&" alt="ifsvivek" /></p>
+
+
+## Snake
+![](https://gh.ifsvivek.tech/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
