@@ -25,11 +25,11 @@
 
 ## My GitHub Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en&layout=compact" alt="ifsvivek" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en&layout=compact" alt="ifsvivek" width="400" />
 </br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en" alt="ifsvivek" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en" alt="ifsvivek" width="400" />
     </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed&" alt="ifsvivek" width="300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed&" alt="ifsvivek" width="400" />
 </div>
 
 
