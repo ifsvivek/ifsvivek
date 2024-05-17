@@ -24,17 +24,17 @@
 
 
 ## My GitHub Stats
-<div style="text-align: center;">
-    <div style="display: inline-block; width: 33.33%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en&layout=compact" alt="ifsvivek" style="width: 100%;" />
-    </div>
-    <div style="display: inline-block; width: 33.33%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en" alt="ifsvivek" style="width: 100%;" />
-    </div>
-    <div style="display: inline-block; width: 33.33%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed&" alt="ifsvivek" style="width: 100%;" />
-    </div>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en&layout=compact" alt="ifsvivek" width="300" />
+</br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=github_dark_dimmed&show_icons=true&locale=en" alt="ifsvivek" width="300" />
+    </br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed&" alt="ifsvivek" width="300" />
 </div>
+
+
+
+
 
 
 ## Snake
