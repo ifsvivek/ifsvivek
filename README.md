@@ -15,8 +15,6 @@ I'm a tech enthusiast who loves to learn about new things and apply my knowledge
 - Svelte
 - Tailwind CSS
 
-## 🏆 Achievements
-- (Add your achievements here)
 
 
 ## 💼 Projects
