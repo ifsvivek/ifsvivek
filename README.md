@@ -26,6 +26,8 @@ I'm a tech enthusiast who loves to learn about new things and apply my knowledge
 - **[LocalBot](https://github.com/ifsvivek/LocalBot)**:Local Bot is a fun and interactive bot built using Python's Discord library. It provides various commands and features to enhance the user experience within Discord servers.
 - **[VideoFetch](https://github.com/ifsvivek/VideoFetch)**:VideoFetch: A plugin for Free Download Manager to easily download YouTube videos.
 - **[Plot-Arduino-Data-in-Real-Time](https://github.com/ifsvivek/Plot-Arduino-Data-in-Real-Time)**:This Python code uses the serial library to read data from an Arduino microcontroller, and the matplotlib library to plot the data in real-time. The code continuously reads data from the Arduino an…
+- **[Notify](https://github.com/ifsvivek/Notify)**:Notify is a web application built with SvelteKit, TailwindCSS, and PostgreSQL. It allows users to create, update, and manage notes.
+
 
 
 ## 📫 How to reach me
