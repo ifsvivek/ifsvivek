@@ -46,4 +46,4 @@ I'm a tech enthusiast who loves to learn about new things and apply my knowledge
 [![ifsvivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark)](https://github.com/ifsvivek/)
 
 ## 🐍 Snake Animation
-![](https://gh.ifsvivek.tech/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://ifsvivek.github.io/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
