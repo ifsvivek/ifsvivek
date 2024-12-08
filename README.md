@@ -15,7 +15,7 @@ A tech enthusiast driven by curiosity, I enjoy building meaningful tools and col
 - Enhancing my expertise in modern web technologies  
 
 ## 💼 Notable Projects  
-- **[Alignn](https://alignn.in):** Empowering businesses with responsive websites, creative branding, and growth-driven marketing.  
+- **[Alignn](https://alignn.vercel.app):** Empowering businesses with responsive websites, creative branding, and growth-driven marketing.  
 - **[LocalBot](https://github.com/ifsvivek/LocalBot):** A versatile Discord bot built with Python.  
 - **[VideoFetch](https://github.com/ifsvivek/VideoFetch):** A plugin to download YouTube videos seamlessly.  
 - **[Notify](https://github.com/ifsvivek/Notify):** A note management app using SvelteKit and TailwindCSS.  
