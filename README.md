@@ -8,7 +8,7 @@ A tech enthusiast driven by curiosity, I enjoy building meaningful tools and col
 ## 🛠 Skills  
 - **Languages:** C, C++, Python, JavaScript, TypeScript, SQL, HTML, CSS  
 - **Frameworks/Libraries:** React, Svelte, Tailwind CSS  
-- **Tools:** Vite, Firebase, MongoDB, Vercel, ESLint  
+- **Tools:** Vite, Firebase, MongoDB, Vercel 
 
 ## 🎯 I’m currently focusing on...  
 - Driving innovation at Alignn  
@@ -27,13 +27,13 @@ A tech enthusiast driven by curiosity, I enjoy building meaningful tools and col
 - Website: [blog.ifsvivek.tech](https://blog.ifsvivek.tech)  
 
 ## 📊 GitHub Stats  
+![](https://ifsvivek.github.io/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=github_dark_dimmed&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=github_dark_dimmed) |  
 |:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed)  
+<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark)  
 
 
 
-## 🐍 Snake Animation
-![](https://ifsvivek.github.io/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
