@@ -33,5 +33,4 @@ A tech enthusiast driven by curiosity, I enjoy building meaningful tools and col
 |:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|  
 
 <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark)  
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark)
