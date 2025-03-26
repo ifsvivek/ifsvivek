@@ -32,5 +32,4 @@ A tech enthusiast driven by curiosity, I enjoy building meaningful tools and col
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=github_dark_dimmed&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=github_dark_dimmed) |  
 |:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|  
 
-<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=github_dark_dimmed) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark&area=true&order=5)
