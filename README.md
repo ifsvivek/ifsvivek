@@ -50,26 +50,21 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-> _Tech enthusiast driven by curiosity and innovation_
+> _PASSIONATE ABOUT TECH, DRIVEN BY CURIOSITY._
 
 I blend creativity with technical expertise to build meaningful tools that make a difference. Currently focused on:
 
 <br/>
 
 🔬 **AI Integration** • 🛰️ **Satellite Imagery Analysis @ ISRO** • 🏗️ **Scalable Web Applications** • ⚡ **Edge Computing**
-
 <br/>
 
-<details>
-<summary><b>🎯 What drives me</b></summary>
-<br>
+## 🎯 What drives me
 
 -   🚀 **Innovation First**: Always exploring cutting-edge technologies
 -   🎯 **Impact Focused**: Building solutions that solve real-world problems
 -   🤝 **Community Driven**: Contributing to open source and sharing knowledge
 -   📚 **Continuous Learning**: Staying ahead of the tech curve
-
-</details>
 
 <br/>
 
