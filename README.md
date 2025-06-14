@@ -306,7 +306,6 @@ Component libraries
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ifsvivek&theme=react&hide_border=true&background=0D1117&stroke=58a6ff&ring=79dafa&fire=ff6b6b&currStreakLabel=79dafa" alt="GitHub Streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ifsvivek&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=79dafa&line=58a6ff&point=79dafa&area_color=58a6ff" />
