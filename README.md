@@ -298,7 +298,7 @@ Component libraries
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=react&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifsvivek&theme=react&layout=compact&hide_border=true&bg_color=0D1116" alt="Top Languages" />
 </td>
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=ifsvivek&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&count_private=true" alt="GitHub Stats" />
