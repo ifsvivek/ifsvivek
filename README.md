@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" height="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vivek%20Sharma&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
 <h1 align="center">👋 Hello, I'm Vivek Sharma</h1>
 
 <h3 align="center">
@@ -315,7 +312,3 @@ Component libraries
 
 </div>
 
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
